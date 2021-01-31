@@ -1,0 +1,11 @@
+#In this task, you are required to edit Aesop's "The Wolf in Sheep's Clothing" 
+#You must convert all animals to upper case
+#Example: Bat -> BAT
+
+A Bat fell on the ground and was caught by a Weasel. It begged the Weasel to spare its life, but
+the Weasel refused. It told the Bat that birds, by nature, were its enemy. The Bat assured him that
+it was not a bird, it was a mouse. The Weasel thought a moment, then set it free. A while later,
+the Bat fell again to the ground, and it was caught by another Weasel. It begged this Weasel not to
+eat him, either. The Weasel, though, said it did not like mice at all and would eat it. The Bat
+told the Weasel that it was not a mouse, but a bat. The second Weasel had no good answer, so he let
+it go.

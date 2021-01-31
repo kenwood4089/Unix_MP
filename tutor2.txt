@@ -1,0 +1,9 @@
+#In this task, you are required to type the following strings [CASE SENSITIVE]:
+#Follow exactly on how it is listed. The clock is ticking, quickly.
+# "The five boxing wizards jump quickly" 
+# "Pack my box with five dozen liquor jugs" 
+# "By Jove, my quick study of lexicography won a prize" 
+# "Quick zephyrs blow, vexing daft Jim" 
+# "A wizard's job is to vex chumps quickly in fog"
+
+#Start here.

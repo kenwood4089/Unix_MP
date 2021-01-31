@@ -1,0 +1,5 @@
+#This is a text file that holds the current score/s of the players.
+#Format:FirstName:HP:Time Left
+
+
+Justin:100:60

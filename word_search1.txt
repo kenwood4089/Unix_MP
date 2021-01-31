@@ -1,0 +1,9 @@
+#EXTERNAL:SUDO:KERNEL:SHELL:LOCATE:UNIX
+
+Clues:
+1.)This is referred as commands that are a part of something that is not built in.
+2.)When I execute this command, I feel powerful and elevated. I think I can do all things.
+3.)I am a main component that acts as a middle man between two entities. I am also the boss of these two entities because I command them what to do.
+4.)I am a main component that translates and interprets anything that is given to me. I sleep when I do nothing, what am I.
+5.)I can be used to find where treasures are. But I need to be updated about the treasure's location everynow and then. What command do I represent in Unix. 
+6.)I am referred to as: "The oldest operating system created."

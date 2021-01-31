@@ -1,0 +1,10 @@
+#EXPORT:BACKGROUND:DAEMON:BASH:CHMOD:SYMBOLIC:RENICE
+
+Question:
+1.)This command can provide a child shell or child script a copy of its own variable, but the main copy will not be affected. 
+2.)These are processes that invisible to that eye.
+3.)I am usually mistaken as a kin to the devil. But I am just a process running in the background.
+4.)People call me reborn because I am a better version of my older predecessor, which is quite true.
+5.)What command is used to grant permissions on read, write, and execute?
+6.)I am a type of link that will be broken when a file is deleted/renamed.
+7.)I am simply a command that can change the priority of a process. 

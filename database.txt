@@ -1,0 +1,13 @@
+#This is a database for the user's info
+#format:Last_Name:First_Name:Middle_Initial:Student Number:Contact Number:Email Address
+
+Bautista:Justin:A:2016132012:09081550881:justinabautista8@gmail.com
+Borreta:Juan:R:2016132011:09081550881:juanricardo@gmail.com
+GuestLN:GuestFN:G:2016132013:09081550881:justinabautista8@gmail.com
+Bautista:Justin:A:2016112012:09081550881:justinbautista@gmail.com
+Bautista:Justin:A.:2012132048:09081550881:justinabautista8@gmail.com
+Luis:Vince:M:2016142346:09880808080:vince@gmail.com
+Luis:Vince:M:2016142346::
+A:a:a:2016132019:09081550881:justinabautista@gmail.com
+Legaspi:Jericho:P:2016142119:09111111111:jericho@legaspi.com
+Toco:Marvin:S:2016142212:09081550881:marvin@gmail.com

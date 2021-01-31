@@ -1,0 +1,11 @@
+#NICENESS:UNEXPAND:TOP:TIME:TPUT:WHEREIS:FIND:ZOMBIE
+
+Question:
+1.)This is a measure on how prioritized a certain process is. 
+2.)You have the ability to unify 8 fragments of air around you, and convert it into single block of attack. What similar command does this ability represent in Unix?
+3.)They refer to me as the all seeing eye because I can see what processes are running in real time.
+4.)This is a command which can be used to determine how long it would take for a process to run. 
+5.)People say that this command has teleportation skills since it let to go to a specific location.
+6.)I can determine where are the files for a command is located. What command is this.
+7.)I can determine files based on different conditions (such as size or name) and can even execute further commands in these files if you wish. 
+8.)Arghhh. I am a process that is already terminated, but is not killed by a parent. What am I.

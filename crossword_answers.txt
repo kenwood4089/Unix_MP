@@ -1,0 +1,13 @@
+#GREP:SEMICOLON:HISTORY:PATH:VARIABLES:BOURNE:TYPE:PIPELINING
+
+DOWN:
+1.This is a command that is used to determine if a command is extrinsic or intrinsic.
+2.This shell is the grandfather of modern Unix shells.
+4.This is the process of redirecting the output of the first command to serve as an input to the next command.
+5.This is an environment variable that dictates where directories to look for executable files.
+7.This is a command used to view recently executed commands.
+
+Across:
+3.This is a command that will print the lines of the matching patterns.
+6.These can be considered as placeholders of values that can be used to change the functionality of the shell or commands.
+8.This is a symbol added  in between commands so that they can be executed in parallel.

@@ -1,0 +1,15 @@
+   1 2 3 4 5 6 7 8 9 A B C  
+  ------------------------- 
+1 |R M M D V N T C L H M S| 
+2 |U E L Q O R I B W A Q W| 
+3 |J Y N M D L E X P O R T| 
+4 |Z Q E I O R O C F F F L| 
+5 |L A G B C L D P H X D P| 
+6 |D F M I J E S Y K W M H| 
+7 |V Y M B H U U T R P Z T| 
+8 |S J M G D T X M E Q T B| 
+9 |B A C K G R O U N D A Z| 
+A |U R D O J I D V U S O D| 
+B |X Q F B B S H Z H A X V| 
+C |E B C U E D O M H C S K| 
+  ------------------------- 

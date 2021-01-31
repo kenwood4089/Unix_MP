@@ -1,0 +1,19 @@
+#In this task, you are required to edit the following data set:
+#You need to sort the data, then correct some labels and append JUS in the last character.
+#Sort the data set in Lexicographical order (ELVES FIRST, THEN DWARVES....).
+#ELVES, DWARVES, and HUMANS should be classified as GOOD, while ORCS  BAD
+#After sorting and correcting the data set, append "JUS" in the last character of the line.
+#Example: ORCS:GOODJUS
+
+ELVES:GOODJUS
+ELVES:GOODJUS
+ELVES:GOODJUS
+DWARVES:GOODJUS
+DWARVES:GOODJUS
+DWARVES:GOODJUS
+HUMANS:BADJUS
+HUMANS:BADJUS
+HUMANS:BADJUS
+ORCS:BADJUS
+ORCS:BADJUS
+ORCS:BADJUS

@@ -1,0 +1,13 @@
+   1 2 3 4 5 6 7 8 9 A  
+  --------------------- 
+1 |J G T F Q K W E R D| 
+2 |W L O Z E Y X L W F| 
+3 |C S J R I T K B L U| 
+4 |A Q N W E J B G H T| 
+5 |G E X R L O C A T E| 
+6 |L P N L L E H S B S| 
+7 |W A F B P U S L K Q| 
+8 |L S U D O Q N P B J| 
+9 |I X F Z Q X C I E T| 
+A |W L J R Y Y E V X X| 
+  --------------------- 

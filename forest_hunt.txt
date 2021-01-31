@@ -1,0 +1,25 @@
+1 /
+
+2 /right_path
+2 /middle_path
+2 /left_path
+
+
+3 /right_path/right_door
+3 /right_path/left_door
+3? /middle_path/door
+3 /left_path/right_door
+3 /left_path/left_door
+
+4? /right_path/right_door/first_room
+4? /right_path/right_door/second_room
+4? /right_path/right_door/third_room
+
+4? /right_path/left_door/right_stair
+4 /right_path/left_door/left_stair
+4? /left_path/right_door/treasure_room
+4 /left_path/right_door/haunted_room
+4? /left_path/left_door/treasure_room
+4? /left_path/left_door/treasure_room
+
+5 /right_path/left_door/left_stair/final_room
